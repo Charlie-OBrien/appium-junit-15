@@ -40,3 +40,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### New ###
+.idea/workspace.xml
+.idea/gradle.xml
